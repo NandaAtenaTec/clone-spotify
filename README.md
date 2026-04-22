@@ -1,18 +1,16 @@
-# 🎧 Clone Spotify
+# 🎧 Spotify Clone - Front-End Project
 
+> Responsive Spotify UI clone built with HTML, CSS, JavaScript and Bootstrap.
 
-Projeto desenvolvido com foco em replicar a interface do Spotify, utilizando HTML, CSS, JavaScript e Bootstrap. 
-A proposta foi criar uma página visualmente semelhante à plataforma original, explorando conceitos de layout responsivo, design moderno e componentização com Bootstrap.
+## 📌 About the Project
+This project is a responsive front-end clone of the Spotify interface, developed to practice modern web development concepts and UI replication.
 
-<p align="center">
-  <img src="./previewspot.png" width="600" alt="Preview do projeto" />
-</p>
+## 🎯 Objective
+- Recreate a real-world application interface
+- Improve responsive design skills
+- Practice clean and structured code
 
-
-
-********
-## 🛠️ Tecnologias utilizadas
-
+## 🧰 Technologies Used
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" />
@@ -20,22 +18,44 @@ A proposta foi criar uma página visualmente semelhante à plataforma original, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap logo" />
 </p>
 
+## 💻 Features
+- Responsive layout (mobile & desktop)
+- Music player interface simulation
+- Navigation menu
+- Organized UI components
+
+## 🌐 Live Demo
+🔗 https://clone-spotify-nine-inky.vercel.app/
+
+## 📸 Preview
+
+<p align="center">
+  <a href="https://clone-spotify-nine-inky.vercel.app/">
+    <img src="./previewspot.png" width="600" alt="Spotify Clone Preview" />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <strong>Click on the image to access the project</strong>
+</p>
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/NandaAtenaTec/clone-spotify
+````
+
+## 🧠 What I Learned
+- Responsive design techniques for multiple screen sizes
+- UI replication from real-world applications
+- Better component and layout structuring
+- Writing cleaner and more organized code
+
+  ## 📁 Project Structure
+- index.html
+- css/
+- assets/
 
 
-
-*****
-### ✨ Funcionalidades
-- Layout inspirado na interface do Spotify
-- Menu lateral fixo com ícones
-- Área de navegação com playlists e sugestões
-- Estilização responsiva para diferentes tamanhos de tela
-- Interações simples com JavaScript
-
-### 🚀 Deploy 
-
-
-Você pode visualizar o projeto online:
-
-🔗 https://nandacoderdev.github.io/clone-spotify/
 
 
